@@ -7,9 +7,17 @@ body{
 }
 h1{
     text-align: center;
-    color: rgb(133, 136, 47);
+    color: rgb(164, 167, 89);
     font-size: 50px;
     font-family:'Times New Roman', Times, serif;
-    background-color: aquamarine;
+    background-color: rgb(220, 222, 224);
     margin:25px 200px;
+}
+li{
+    /* color: ; */
+    width:250px;
+    background-color: azure;
+    color: darkorange;
+    margin: 20px 50px;
+    font-family:'Courier New', Courier, monospace;
 }
