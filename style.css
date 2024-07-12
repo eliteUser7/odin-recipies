@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+
+}
+*{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    color: rgb(133, 136, 47);
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    margin:25px 200px;
+}
